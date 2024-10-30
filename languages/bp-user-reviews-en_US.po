@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP User Reviews\n"
+"POT-Creation-Date: 2016-10-03 21:48+0300\n"
+"PO-Revision-Date: 2016-10-03 21:48+0300\n"
+"Last-Translator: \n"
+"Language-Team: WordPlus <andrij@wordplus.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-user-reviews.php:97
+msgid "Publish"
+msgstr ""
+
+#: bp-user-reviews.php:105
+msgid "Unpublish"
+msgstr ""
+
+#: bp-user-reviews.php:150 templates/edit.php:49
+msgid "Review"
+msgstr ""
+
+#: bp-user-reviews.php:151 templates/edit.php:10
+msgid "User"
+msgstr ""
+
+#: bp-user-reviews.php:152 templates/edit.php:17
+msgid "Author"
+msgstr ""
+
+#: bp-user-reviews.php:153
+msgid "Date"
+msgstr ""
+
+#: bp-user-reviews.php:179
+msgid "You can not put yourself reviews"
+msgstr ""
+
+#: bp-user-reviews.php:194
+msgid "Name field is required"
+msgstr ""
+
+#: bp-user-reviews.php:201
+msgid "Email field is required"
+msgstr ""
+
+#: bp-user-reviews.php:204
+msgid "Email is wrong"
+msgstr ""
+
+#: bp-user-reviews.php:214 bp-user-reviews.php:219
+msgid "Already reviewed by you"
+msgstr ""
+
+#: bp-user-reviews.php:229 bp-user-reviews.php:237
+msgid "You must select all stars"
+msgstr ""
+
+#: bp-user-reviews.php:252
+msgid "Review can`t be empty"
+msgstr ""
+
+#: bp-user-reviews.php:255
+#, php-format
+msgid "Review must be at least %s characters"
+msgstr ""
+
+#: bp-user-reviews.php:332
+msgid "Review Details"
+msgstr ""
+
+#: bp-user-reviews.php:372
+msgid "BP User Reviews"
+msgstr ""
+
+#: bp-user-reviews.php:423
+msgid "Spam"
+msgstr ""
+
+#: bp-user-reviews.php:454 bp-user-reviews.php:455
+msgid "Settings"
+msgstr ""
+
+#: bp-user-reviews.php:479 templates/review-list.php:19
+msgid "Reviews"
+msgstr ""
+
+#: bp-user-reviews.php:519 bp-user-reviews.php:546
+msgid "Saved successfully."
+msgstr ""
+
+#: templates/edit.php:23
+msgid "Marks"
+msgstr ""
+
+#: templates/edit.php:26
+msgid "Total:"
+msgstr ""
+
+#: templates/edit.php:28 templates/edit.php:38
+msgid "of"
+msgstr ""
+
+#: templates/review-form.php:7
+msgid "Add Review"
+msgstr ""
+
+#: templates/review-form.php:23
+msgid "Your name"
+msgstr ""
+
+#: templates/review-form.php:27
+msgid "Your email"
+msgstr ""
+
+#: templates/review-list.php:68
+msgid "No reviews yet"
+msgstr ""
+
+#: templates/settings.php:7
+msgid "BP User Reviews Settings"
+msgstr ""
+
+#: templates/settings.php:13 templates/settings.php:15
+msgid "Who can leave reviews?"
+msgstr ""
+
+#: templates/settings.php:16
+msgid "Logged in users"
+msgstr ""
+
+#: templates/settings.php:17
+msgid "Anyone"
+msgstr ""
+
+#: templates/settings.php:23
+msgid "Rating scale"
+msgstr ""
+
+#: templates/settings.php:24
+msgid "How many stars is the rating out of?"
+msgstr ""
+
+#: templates/settings.php:27
+msgid "Stars"
+msgstr ""
+
+#: templates/settings.php:34 templates/settings.php:37
+msgid "Stars color"
+msgstr ""
+
+#: templates/settings.php:44 templates/settings.php:47
+msgid "Is a text review required alongside the rating?"
+msgstr ""
+
+#: templates/settings.php:48 templates/settings.php:59
+msgid "Yes"
+msgstr ""
+
+#: templates/settings.php:49 templates/settings.php:60
+msgid "No"
+msgstr ""
+
+#: templates/settings.php:55 templates/settings.php:58
+msgid "Multiple reviews allowed?"
+msgstr ""
+
+#: templates/settings.php:65 templates/settings.php:67
+msgid "Criteria"
+msgstr ""
+
+#: templates/settings.php:68
+msgid "Single"
+msgstr ""
+
+#: templates/settings.php:69
+msgid "Multiple"
+msgstr ""
+
+#: templates/settings.php:74 templates/settings.php:76
+msgid "Multiple criteria"
+msgstr ""
+
+#: templates/settings.php:80
+msgid "Add new"
+msgstr ""
+
+#: templates/settings.php:87
+msgid "Save Changes"
+msgstr ""

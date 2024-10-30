@@ -1,0 +1,165 @@
+.bp-user-reviews{
+    width: 100%;
+}
+
+.bp-user-reviews textarea{
+    width: 100%;
+    resize: none;
+    margin: 10px 0;
+}
+
+p.rating{
+    display: table-row;
+}
+p.field{
+    display: table-row;
+}
+p.field > *{
+    display: table-cell;
+    margin: 5px 0;
+}
+
+p.rating label{
+    font-style: normal;
+    vertical-align: middle;
+    font-size: 14px;
+    padding-right: 10px;
+    display: table-cell;
+}
+
+span.rating{
+    font-size: 20px;
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    text-align: left;
+    vertical-align: middle;
+}
+
+span.rating span.star:before {
+    content: "\f006";
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+
+span.rating span.star:hover:before,
+span.rating span.star.active:before,
+span.rating span.star.active~span.star:before,
+span.rating span.star:hover~span.star:before {
+    content: "\f005";
+}
+.bp-user-reviews-table{
+    display: table;
+}
+.bp-users-reviews-list{
+    display: table;
+    width: 100%;
+}
+.bp-users-reviews-list .review{
+    display: table-row;
+}
+.bp-users-reviews-list .review .author{
+    display: table-cell;
+    border-bottom: 1px solid #ededed;
+    vertical-align: top;
+    padding: 13px 0;
+    margin: 0;
+    /* white-space: nowrap; */
+    width: 1px;
+    padding-right: 30px;
+}
+.bp-users-reviews-list .review .author img{
+    vertical-align: middle;
+    display: inline-block;
+}
+.bp-users-reviews-list .review .author a{display: inline-block;}
+.bp-users-reviews-list .review .details{
+    display: table-cell;
+    padding: 15px 10px 15px;
+    border-bottom: 1px solid #ededed;
+}
+.bp-users-reviews-list .review .details .rating .stars{
+    position: relative;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: left;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.bp-users-reviews-list .review .details .rating{
+    display: table-row;
+}
+.bp-users-reviews-list .review .details div.text{
+    margin-top: 10px;
+    font-style: italic;
+}
+.bp-users-reviews-list .review .details .rating .stars .active{
+    position: absolute;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+}
+.bp-users-reviews-list .review .details .rating .text{
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0 5px;
+}
+.bp-users-reviews-list .review .details .rating .text:first-child{
+    padding-left: 0;
+}
+.bp-users-reviews-list .review .details .rating .stars .active span.star:before{
+    content: "\f005";
+}
+
+.bp-users-reviews-list .review .details .rating .stars span.star:before {
+    content: "\f006";
+    padding-right: 1px;
+    padding-left: 1px;
+}
+.bp-users-reviews-list .review .details .rating .stars span.star:last-child:before{
+    padding-right: 0;
+}
+.bp-users-reviews-list .review .details .rating .stars span.star:first-child:before{
+    padding-left: 0;
+}
+
+
+.bp-users-reviews-stars{
+    position: relative;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: left;
+    vertical-align: middle;
+    white-space: nowrap;
+    display: inline-block;
+}
+.bp-users-reviews-stars .active{
+    position: absolute;
+    left: 1px;
+    top: 0;
+    overflow: hidden;
+}
+.bp-users-reviews-stars .active span.star:before{
+    content: "\f005";
+}
+
+.bp-users-reviews-stars span.star:before {
+    content: "\f006";
+    padding-right: 1px;
+    padding-left: 1px;
+}
+.bp-users-reviews-stars span.star:last-child:before{
+    padding-right: 0;
+}
+.bp-users-reviews-stars span.star:first-child:before{
+    padding-left: 0;
+}
+
+.bp-users-reviews-pager{
+    width: 100%;
+    margin: 10px 0;
+}
+.bp-users-reviews-pager .page-numbers{
+    display: inline-block;
+    vertical-align: top;
+}

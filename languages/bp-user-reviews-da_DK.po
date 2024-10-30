@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP User Reviews\n"
+"POT-Creation-Date: 2016-10-03 21:48+0300\n"
+"PO-Revision-Date: 2016-10-24 09:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: WordPlus <andrij@wordplus.org>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-user-reviews.php:97
+msgid "Publish"
+msgstr "Udgiv"
+
+#: bp-user-reviews.php:105
+msgid "Unpublish"
+msgstr "Annuller udgivelse"
+
+#: bp-user-reviews.php:150 templates/edit.php:49
+msgid "Review"
+msgstr "Vurdering"
+
+#: bp-user-reviews.php:151 templates/edit.php:10
+msgid "User"
+msgstr "Bruger"
+
+#: bp-user-reviews.php:152 templates/edit.php:17
+msgid "Author"
+msgstr "Forfatter"
+
+#: bp-user-reviews.php:153
+msgid "Date"
+msgstr "Dato"
+
+#: bp-user-reviews.php:179
+msgid "You can not put yourself reviews"
+msgstr "Du kan ikke vurdere dig selv"
+
+#: bp-user-reviews.php:194
+msgid "Name field is required"
+msgstr "Navn: Dette felt skal udfyldes"
+
+#: bp-user-reviews.php:201
+msgid "Email field is required"
+msgstr "E-mail: Dette felt skal udfyldes"
+
+#: bp-user-reviews.php:204
+msgid "Email is wrong"
+msgstr "E-mail er forkert"
+
+#: bp-user-reviews.php:214 bp-user-reviews.php:219
+msgid "Already reviewed by you"
+msgstr "Denne bruger er allerede blevet vurderet af dig"
+
+#: bp-user-reviews.php:229 bp-user-reviews.php:237
+msgid "You must select all stars"
+msgstr "Vælg venligst din vurdering af stjerner"
+
+#: bp-user-reviews.php:252
+msgid "Review can`t be empty"
+msgstr "Udfyld tekstfeltet med en forklaring om vurderingen"
+
+#: bp-user-reviews.php:255
+#, php-format
+msgid "Review must be at least %s characters"
+msgstr "Vurderingen skal være på minds %s bogstaver"
+
+#: bp-user-reviews.php:332
+msgid "Review Details"
+msgstr "Vurdering Detaljer"
+
+#: bp-user-reviews.php:372
+msgid "BP User Reviews"
+msgstr "BP User Reviews"
+
+#: bp-user-reviews.php:423
+msgid "Spam"
+msgstr "Spam"
+
+#: bp-user-reviews.php:454 bp-user-reviews.php:455
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: bp-user-reviews.php:479 templates/review-list.php:19
+msgid "Reviews"
+msgstr "Vurderinger"
+
+#: bp-user-reviews.php:519 bp-user-reviews.php:546
+msgid "Saved successfully."
+msgstr "Din vurdering er blevet gemt. Genload siden for at se din vurdering forneden."
+
+#: templates/edit.php:23
+msgid "Marks"
+msgstr "Markeringer"
+
+#: templates/edit.php:26
+msgid "Total:"
+msgstr "Total:"
+
+#: templates/edit.php:28 templates/edit.php:38
+msgid "of"
+msgstr "af"
+
+#: templates/review-form.php:7
+msgid "Add Review"
+msgstr "Tilføj Din Vurdering"
+
+#: templates/review-form.php:23
+msgid "Your name"
+msgstr "Dit navn"
+
+#: templates/review-form.php:27
+msgid "Your email"
+msgstr "Din email"
+
+#: templates/review-list.php:68
+msgid "No reviews yet"
+msgstr "Ingen vurderinger endnu"
+
+#: templates/settings.php:7
+msgid "BP User Reviews Settings"
+msgstr "BP User Reviews Indstillinger"
+
+#: templates/settings.php:13 templates/settings.php:15
+msgid "Who can leave reviews?"
+msgstr "Hvem kan efterlade vurderinger?"
+
+#: templates/settings.php:16
+msgid "Logged in users"
+msgstr "Brugere som er logget ind"
+
+#: templates/settings.php:17
+msgid "Anyone"
+msgstr "Alle"
+
+#: templates/settings.php:23
+msgid "Rating scale"
+msgstr "Vurderings skala"
+
+#: templates/settings.php:24
+msgid "How many stars is the rating out of?"
+msgstr "Hvor mange stjerner skal vurderingen være ud af?"
+
+#: templates/settings.php:27
+msgid "Stars"
+msgstr "Stjerner"
+
+#: templates/settings.php:34 templates/settings.php:37
+msgid "Stars color"
+msgstr "Stjerne farve"
+
+#: templates/settings.php:44 templates/settings.php:47
+msgid "Is a text review required alongside the rating?"
+msgstr "Skal der være en tekstbedømmelse ved siden af vurderingen?"
+
+#: templates/settings.php:48 templates/settings.php:59
+msgid "Yes"
+msgstr "Ja"
+
+#: templates/settings.php:49 templates/settings.php:60
+msgid "No"
+msgstr "Nej"
+
+#: templates/settings.php:55 templates/settings.php:58
+msgid "Multiple reviews allowed?"
+msgstr "Flere end én vurdering tilladt?"
+
+#: templates/settings.php:65 templates/settings.php:67
+msgid "Criteria"
+msgstr "Kriteria"
+
+#: templates/settings.php:68
+msgid "Single"
+msgstr "Enkelt"
+
+#: templates/settings.php:69
+msgid "Multiple"
+msgstr "Flere"
+
+#: templates/settings.php:74 templates/settings.php:76
+msgid "Multiple criteria"
+msgstr "Flere kriteria"
+
+#: templates/settings.php:80
+msgid "Add new"
+msgstr "Tilføj ny"
+
+#: templates/settings.php:87
+msgid "Save Changes"
+msgstr "Gem Ændringer"
